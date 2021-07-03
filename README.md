@@ -1,5 +1,5 @@
 ### Hi there 👋
- I am a postdoctoral researcher and the lab manager at the Max Planck Institute for Research on Collective Goods.
+ I am a postdoctoral researcher at the University of Bologna.
 
 My research is focused on the topic of cooperation, specifically on reciprocity and conditional cooperation. A particular application of this literature that I am interested in is social production goods such as open-source software, wikis, public guides and so on.
 
